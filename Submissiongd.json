@@ -1,0 +1,6 @@
+{
+  "prompt": "A sweeping, wide-angle cinematic landscape shot taken during the Blue Hour. The terrain is a vast, ancient valley filled with soft, undulating hills. The higher slopes are steep, textured with dark scree and shale. The entire lower basin is completely obscured by a thick, heavy layer of slow-moving, cold mist, which pooled to form a 'sea of fog' that swallows everything. Near the top of a steep, loose scree slope, a lone hiker is visible. They are in motion, leaning forward, using a sturdy wooden walking stick to feel the ground ahead of their foot before taking a single, measured, careful step downward. They wear technical hiking gear and a large pack. High resolution, photojournalism style.",
+  "model": "Gemini 3 Pro Image (Nano Banana Pro)",
+  "concept": "Gradient Descent",
+  "metaphor": "A hiker on a steep mountain path carefully feels the ground before taking a small, measured step downward into a deep, misty basin that is the global minimum."
+}
